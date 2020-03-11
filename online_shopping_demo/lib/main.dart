@@ -105,10 +105,10 @@ class _HomePageState extends State<HomePage> {
         backgroundColor: Color(0xff0d1a30),
         body: TabBarView(
           children: [
-            Home(),
-            Icon(Icons.directions_transit),
-            Icon(Icons.directions_bike),
-            Icon(Icons.directions_bike),
+            Home(tabName: 'homePage'),
+            Home(tabName: 'tvShows'),
+            Home(tabName: 'movies'),
+            Home(tabName: 'kids'),
           ],
         ),
       ),

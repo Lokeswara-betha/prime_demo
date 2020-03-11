@@ -6,7 +6,8 @@ import 'dart:convert' as convert;
 import 'package:flutter/services.dart' show rootBundle;
 
 class Home extends StatelessWidget {
-  const Home({Key key}) : super(key: key);
+  String tabName;
+  Home({@required this.tabName});
 
   @override
   Widget build(BuildContext context) {
@@ -16,7 +17,9 @@ class Home extends StatelessWidget {
       builder: (context, snapshot) {
         if (snapshot.hasData) {
           var categoryList =
-              convert.jsonDecode(snapshot.data)['homePage']['categories'];
+              convert.jsonDecode(snapshot.data)[tabName]['categories'];
+          var imagesList =
+              convert.jsonDecode(snapshot.data)[tabName]['sliderImageUrls'];
 
           return SingleChildScrollView(
             child: Column(
@@ -25,7 +28,7 @@ class Home extends StatelessWidget {
                 SizedBox(
                   height: 20,
                 ),
-                ImageSlider(),
+                ImageSlider(imagesList: imagesList),
                 Column(
                   children: categoryList.map<Widget>((category) {
                     return Builder(

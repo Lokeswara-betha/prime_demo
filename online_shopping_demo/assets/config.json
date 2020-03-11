@@ -128,6 +128,437 @@
           "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e594f5872ba48a619f1e7f166270d681ab7fbc2372b723bdeb86c715fdb54507._UR1920,1080_RI_SX356_FMwebp_.jpg"
         ]
       }
+    ],
+    "sliderImageUrls": [
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/PV_IN_PattasTamil/d66f35b5-bc7d-4b0f-8254-07d8f12dc60d._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_IN_Badrinath/e82d93f8-6e77-4062-a5a4-c0e1248b6f7a._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://live.staticflickr.com/4005/4686746190_31c292dc8c_b.jpg",
+      "https://i0.wp.com/manapop.com/wp-content/uploads/2019/10/jokerposter.jpg",
+      "https://agathachristieltd.imgix.net/image-store/Banner-art-7th-Sept-with-clue.jpg",
+      "https://assets.fontsinuse.com/static/use-media-items/27/26619/full-1500x690/567022b0/interstellar_ver7_xlg.jpeg",
+      "https://i0.wp.com/manapop.com/wp-content/uploads/2019/10/jokerposter.jpg"
+    ]
+  },
+  "tvShows": {
+    "categories": [
+      {
+        "tilte": "Watch next TV and Movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/7348e439e00d582612adb5c0db3d1dcf5309dc80e0400873966b2beb6553d7a8._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/37bd42a7b9bd33c0fcdbbc2b7a4dd77260eb6fc829f659c067f1153e0755e822._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/8d7ccb6f3617524f85d1f12b179ccc1a4c0b82483d7fadc1f3922ce00c7f3917._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/fb44ea96a9e8455acdcd32ab9295db0897ceb2521c2597bdff236dd6114ed1ea._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/IDGE_S2/en_US/COVER_ART/NEW_SERIES/Women._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/40c16daf2a2e324cb46358d3a480109453b5ccbd0cbd9c0758ee42061e25c3ba._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/de895b10b42d3a4667e6d2528dbb6e345706f3651d19b3053e950e19232f2869._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Latest movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/6ebda5f22212f64c80082cc374f88a718a47b1a2535b8e6c85ab7a0985b7b20f._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0c78a098cc9fdedc1e34daf4ed24760c07822f31de5fae39e0a72d765f4fb01d._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/04e1d365f1399ecf278de81cc2447d84d72e084848c75263d92458d53945a4ee._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/803b2daee8d10aed48c9ccb8fa6d4743e2f9f24a37e28b25d1969d8b25c85665._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c48e8b045733f223ddbfe2c1f9284096224bd9cdeb2ed99b5d83edef03a48e78._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Telugu movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/28ebd1d5680de1df9ba439da4bb5369636f238995f6513d8455f2b29439942f1._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c48e8b045733f223ddbfe2c1f9284096224bd9cdeb2ed99b5d83edef03a48e78._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/1938b2db4bb289567b3ecaf5de2e4080cf0fd490ea4c8d649cbacc7249a0f273._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e0665d8b86365ce63008ab8cfad96c4f7ea6289e42df019377cda15067e9f0f0._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/16575dd054bdf83ce01b7510545c5324c703c0a125410b5ff796c3c14a2692b8._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/720e79ec8b92b91884fac8d540b854761faffc7593f5d83d5b4c57b99acf48e2._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Thriller Movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4da4ffbf758f423b6ac483f566567dcc8c3501785b53e42423f95ae14544e661._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c8e62c2985ba5a568c63427979fe25129a6b2a4eecf6931497ccaab8de9c60bc._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/9b5876e93e37e85973feb06eb74cc9c56d1eac12a1ab1e7a83786ca3356793bd._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/colouryellowp-Tumbbad_2018-Full-Image_GalleryCover-rw-RW-1544111752161._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/09835998fa4529eeff1d540cd6940bb9c9e116a796436d751e904670411cf475._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/b4a5ee1bb306bc779842348f3630656c882626102007c1877d1134bc0100ccbb._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/080c7067ffbaa1b302331fe2fd32365a001183a5c291e9f467c9f2cc212d1af8._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Tamil movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0268965b55dbafb232de3346ce06227a5a500ee28a3ec68c4cd67432f7599292._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/40c16daf2a2e324cb46358d3a480109453b5ccbd0cbd9c0758ee42061e25c3ba._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/2a9b1b5edd8d1fe4946f64ec96399bb377d716438f254507f974f5b55db20ef3._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/NGK/en_US/COVER_ART/Couple._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/f7d3f3c3c5c6cbc56980ea2625e5ff9747101fe1f2af20e8bd912cb35cfac571._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/74605f9430c5086e01252f6c73a4083016fe51c5eb8901a1379f22ab1dde81a7._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c85507f163801213d1594897ca1c72308eb4d5734724442db47e7feb434cdcfb._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Amazon Original series",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/HUNTERS/en_US/COVER_ART/CLEAN/MEYER._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/FOAR_S1_STM_IN/hi_IN/COVER_ART/Maya_Smile._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/5adf99fe281db77267d5a79c50b73275500ae3a61488c6448e80f51b2dcc0ef6._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/IDGE_S2/en_US/COVER_ART/NEW_SERIES/Women._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c1d6826d49bd0ce4797b718726245a18b70f36f371219edb0cfc4a7eff11b279._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/amazon_studios-MRZP_S1_STM_IN-Full-Image_GalleryCover-rw-RW-1556884584371._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Avaliable in telugu audio",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4eee812b2e67cce3b3cd9594a3e7fcc54b91341879d7c59329998a1d20dddb46._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/775d2271c07165c5753e787cc1ddfbbf47c622a648b93737ca28d88218b53045._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/wb-2045078_6000112291_IN-Full-Image_GalleryCover-en-rw-1566934007192._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/2427ff8ae8c0bd11e79e616a878098369f1b0175a95e5dd2b2daea8464583e8f._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/3b8d56ebd9f8af65297aeec9ae30645a3f2d73949b04e7c0f4236b4a4f9136fc._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/5f786b87557c159c782569ed7ff1070696c11331f9b1efbfc46945667e2d9201._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/bcca7af1f61c0353f5f55375a065809c2359d5048eb6f367a07d67658cd49236._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Horror movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/131a663506744276152b8b484098f3d746a039a44d4ededc3b9ce64b91509533._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5ae0abd1ebf88d0106a018c3914bbd2042d6ff262efb8251d8640d6ba595c25._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e8b2f2a79188bedd496e68bfe8a07101c03b6cf6796ea841ae16eb1a1a26130c._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/06040972ad2dede62de7e52ec9ba9564fcf966945911c85f9f1fe4f93ebcc46b._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/7e9f1153096a81fcdd43a7107d0bcdfc7a5b6e7b4b4ef4be43e939c93e51ce9a._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/ab59207dc47346fcf979604207351cc895dfb3734146588b92421e79312078ba._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4d7e66e52d71d0b3d2e4b5ef5eb22a9c79cbf33c78d855706f87e2dacc1900ac._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Action and advanture movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/08ab169295edff97f169c0a48a80084b239bf54974bb6b89f675f32ae756c8a7._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/db09f56bd302ffd3645862935b976a317b9acf35e9dcf84a7ac199714b124c96._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0406807103f64c2774c0102678a6abee404764d96ad753b3185d1a095c768c5b._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/82ed7d03cf1e90991a294dbff80189d7dc9314b7c8944c7cd711afed81b559e3._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/134375804ed5997f50e5dab6c7702b808b424d4a76f388c6749dcba675d2ea86._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/d6afd9f762475b36d65aa935f32969602e671c0b851911f5454ae175d42c2291._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/mango_mass-MMM_OFFICER_2018-Full-Image_GalleryCover-rw-RW-1532104698053._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Drama movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c48e8b045733f223ddbfe2c1f9284096224bd9cdeb2ed99b5d83edef03a48e78._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0268965b55dbafb232de3346ce06227a5a500ee28a3ec68c4cd67432f7599292._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4eee812b2e67cce3b3cd9594a3e7fcc54b91341879d7c59329998a1d20dddb46._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/KESARI/en_US/COVER_ART/STILL5._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/f7d3f3c3c5c6cbc56980ea2625e5ff9747101fe1f2af20e8bd912cb35cfac571._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/8785b10e5babf07f03472a78adb2ce93e5325a6bc8129bb1139b2dbb18353574._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Movies in Hindi",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/08ab169295edff97f169c0a48a80084b239bf54974bb6b89f675f32ae756c8a7._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/d3af993e6fae9b67d0caf7f51636f6d7f122543d42db27a688043a14491c6715._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/775d2271c07165c5753e787cc1ddfbbf47c622a648b93737ca28d88218b53045._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/17e8f0838ec0ab59dc45d7bba4d4170947e51232693120fbda89ff74feefec6b._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/40d957277cf5b0d9f30d1c893c278fb690f303fdba8214161a7f38dc167814a3._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/ff89dc753c9a86ec7bef971074da6b66acb4a5d6600c45823618d29f4f999149._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e594f5872ba48a619f1e7f166270d681ab7fbc2372b723bdeb86c715fdb54507._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      }
+    ],
+    "sliderImageUrls": [
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_PV_IN_ComicstaanS2Launch_v2/8183595b-dcdf-48dc-933d-2d651213cca3._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/PV_IN_Youngsheldons3/ff624d13-65cf-4b95-ad04-de3202910734._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/PV_IN_JustAddMagicMysteryCity/079016c7-9cee-465b-83c3-bb272163d115._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/PV_IN_HuntersLaunch/92946f2c-ba0b-4760-9da7-f680834a2a67._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_IN_2andhalfmen_v1/efa21f30-ca41-4819-8679-04081d7dd3b9._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_IN_Office_v1/2efa5ef6-b2f4-4c6f-ab0f-a120fa7d934a._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/PV_IN_StarTrekPicard/093bb5d6-a78d-4e5b-882f-6f6f32270e32._UR3000,600_SX1500_FMwebp_.jpg"
+    ]
+  },
+  "movies": {
+    "categories": [
+      {
+        "tilte": "Watch next TV and Movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/7348e439e00d582612adb5c0db3d1dcf5309dc80e0400873966b2beb6553d7a8._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/37bd42a7b9bd33c0fcdbbc2b7a4dd77260eb6fc829f659c067f1153e0755e822._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/8d7ccb6f3617524f85d1f12b179ccc1a4c0b82483d7fadc1f3922ce00c7f3917._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/fb44ea96a9e8455acdcd32ab9295db0897ceb2521c2597bdff236dd6114ed1ea._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/IDGE_S2/en_US/COVER_ART/NEW_SERIES/Women._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/40c16daf2a2e324cb46358d3a480109453b5ccbd0cbd9c0758ee42061e25c3ba._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/de895b10b42d3a4667e6d2528dbb6e345706f3651d19b3053e950e19232f2869._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Latest movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/6ebda5f22212f64c80082cc374f88a718a47b1a2535b8e6c85ab7a0985b7b20f._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0c78a098cc9fdedc1e34daf4ed24760c07822f31de5fae39e0a72d765f4fb01d._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/04e1d365f1399ecf278de81cc2447d84d72e084848c75263d92458d53945a4ee._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/803b2daee8d10aed48c9ccb8fa6d4743e2f9f24a37e28b25d1969d8b25c85665._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c48e8b045733f223ddbfe2c1f9284096224bd9cdeb2ed99b5d83edef03a48e78._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Telugu movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/28ebd1d5680de1df9ba439da4bb5369636f238995f6513d8455f2b29439942f1._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c48e8b045733f223ddbfe2c1f9284096224bd9cdeb2ed99b5d83edef03a48e78._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/1938b2db4bb289567b3ecaf5de2e4080cf0fd490ea4c8d649cbacc7249a0f273._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e0665d8b86365ce63008ab8cfad96c4f7ea6289e42df019377cda15067e9f0f0._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/16575dd054bdf83ce01b7510545c5324c703c0a125410b5ff796c3c14a2692b8._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/720e79ec8b92b91884fac8d540b854761faffc7593f5d83d5b4c57b99acf48e2._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Thriller Movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4da4ffbf758f423b6ac483f566567dcc8c3501785b53e42423f95ae14544e661._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c8e62c2985ba5a568c63427979fe25129a6b2a4eecf6931497ccaab8de9c60bc._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/9b5876e93e37e85973feb06eb74cc9c56d1eac12a1ab1e7a83786ca3356793bd._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/colouryellowp-Tumbbad_2018-Full-Image_GalleryCover-rw-RW-1544111752161._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/09835998fa4529eeff1d540cd6940bb9c9e116a796436d751e904670411cf475._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/b4a5ee1bb306bc779842348f3630656c882626102007c1877d1134bc0100ccbb._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/080c7067ffbaa1b302331fe2fd32365a001183a5c291e9f467c9f2cc212d1af8._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Tamil movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0268965b55dbafb232de3346ce06227a5a500ee28a3ec68c4cd67432f7599292._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/40c16daf2a2e324cb46358d3a480109453b5ccbd0cbd9c0758ee42061e25c3ba._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/2a9b1b5edd8d1fe4946f64ec96399bb377d716438f254507f974f5b55db20ef3._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/NGK/en_US/COVER_ART/Couple._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/f7d3f3c3c5c6cbc56980ea2625e5ff9747101fe1f2af20e8bd912cb35cfac571._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/74605f9430c5086e01252f6c73a4083016fe51c5eb8901a1379f22ab1dde81a7._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c85507f163801213d1594897ca1c72308eb4d5734724442db47e7feb434cdcfb._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Amazon Original series",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/HUNTERS/en_US/COVER_ART/CLEAN/MEYER._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/FOAR_S1_STM_IN/hi_IN/COVER_ART/Maya_Smile._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/5adf99fe281db77267d5a79c50b73275500ae3a61488c6448e80f51b2dcc0ef6._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/IDGE_S2/en_US/COVER_ART/NEW_SERIES/Women._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c1d6826d49bd0ce4797b718726245a18b70f36f371219edb0cfc4a7eff11b279._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/amazon_studios-MRZP_S1_STM_IN-Full-Image_GalleryCover-rw-RW-1556884584371._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Avaliable in telugu audio",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4eee812b2e67cce3b3cd9594a3e7fcc54b91341879d7c59329998a1d20dddb46._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/775d2271c07165c5753e787cc1ddfbbf47c622a648b93737ca28d88218b53045._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/wb-2045078_6000112291_IN-Full-Image_GalleryCover-en-rw-1566934007192._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/2427ff8ae8c0bd11e79e616a878098369f1b0175a95e5dd2b2daea8464583e8f._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/3b8d56ebd9f8af65297aeec9ae30645a3f2d73949b04e7c0f4236b4a4f9136fc._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/5f786b87557c159c782569ed7ff1070696c11331f9b1efbfc46945667e2d9201._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/bcca7af1f61c0353f5f55375a065809c2359d5048eb6f367a07d67658cd49236._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Horror movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/131a663506744276152b8b484098f3d746a039a44d4ededc3b9ce64b91509533._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5ae0abd1ebf88d0106a018c3914bbd2042d6ff262efb8251d8640d6ba595c25._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e8b2f2a79188bedd496e68bfe8a07101c03b6cf6796ea841ae16eb1a1a26130c._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/06040972ad2dede62de7e52ec9ba9564fcf966945911c85f9f1fe4f93ebcc46b._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/7e9f1153096a81fcdd43a7107d0bcdfc7a5b6e7b4b4ef4be43e939c93e51ce9a._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/ab59207dc47346fcf979604207351cc895dfb3734146588b92421e79312078ba._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4d7e66e52d71d0b3d2e4b5ef5eb22a9c79cbf33c78d855706f87e2dacc1900ac._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Action and advanture movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/08ab169295edff97f169c0a48a80084b239bf54974bb6b89f675f32ae756c8a7._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/db09f56bd302ffd3645862935b976a317b9acf35e9dcf84a7ac199714b124c96._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0406807103f64c2774c0102678a6abee404764d96ad753b3185d1a095c768c5b._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/82ed7d03cf1e90991a294dbff80189d7dc9314b7c8944c7cd711afed81b559e3._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/134375804ed5997f50e5dab6c7702b808b424d4a76f388c6749dcba675d2ea86._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/d6afd9f762475b36d65aa935f32969602e671c0b851911f5454ae175d42c2291._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/mango_mass-MMM_OFFICER_2018-Full-Image_GalleryCover-rw-RW-1532104698053._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Drama movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c48e8b045733f223ddbfe2c1f9284096224bd9cdeb2ed99b5d83edef03a48e78._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0268965b55dbafb232de3346ce06227a5a500ee28a3ec68c4cd67432f7599292._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4eee812b2e67cce3b3cd9594a3e7fcc54b91341879d7c59329998a1d20dddb46._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/KESARI/en_US/COVER_ART/STILL5._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/f7d3f3c3c5c6cbc56980ea2625e5ff9747101fe1f2af20e8bd912cb35cfac571._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/8785b10e5babf07f03472a78adb2ce93e5325a6bc8129bb1139b2dbb18353574._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Movies in Hindi",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/08ab169295edff97f169c0a48a80084b239bf54974bb6b89f675f32ae756c8a7._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/d3af993e6fae9b67d0caf7f51636f6d7f122543d42db27a688043a14491c6715._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/775d2271c07165c5753e787cc1ddfbbf47c622a648b93737ca28d88218b53045._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/17e8f0838ec0ab59dc45d7bba4d4170947e51232693120fbda89ff74feefec6b._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/40d957277cf5b0d9f30d1c893c278fb690f303fdba8214161a7f38dc167814a3._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/ff89dc753c9a86ec7bef971074da6b66acb4a5d6600c45823618d29f4f999149._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e594f5872ba48a619f1e7f166270d681ab7fbc2372b723bdeb86c715fdb54507._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      }
+    ],
+    "sliderImageUrls": [
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/PV_IN_PattasTamil/d66f35b5-bc7d-4b0f-8254-07d8f12dc60d._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/Mikhael_Malyalam_Gold/753c2d0b-54ba-49a4-9c00-728f8d057892._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/PV_IN_AngryBirds2/63098685-07cf-449c-b2f1-6e5b779c46e1._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/PV_IN_BigBrotherMalayalam/cc408176-43a1-4f85-9ca7-0cef6d65072e._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_in_October_v1/9140f7e5-761d-4a1b-b21d-e955ac62b9c3._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/PV_IN_Section375/80725b24-53ee-4716-853d-720f0c451b5a._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_PV_IN_ChachaBhatija_Kids/ba586eed-1cc4-415d-addc-f71508beba0a._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/PV_IN_StarTrekPicard/093bb5d6-a78d-4e5b-882f-6f6f32270e32._UR3000,600_SX1500_FMwebp_.jpg"
+    ]
+  },
+  "kids": {
+    "categories": [
+      {
+        "tilte": "Watch next TV and Movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/7348e439e00d582612adb5c0db3d1dcf5309dc80e0400873966b2beb6553d7a8._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/37bd42a7b9bd33c0fcdbbc2b7a4dd77260eb6fc829f659c067f1153e0755e822._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/8d7ccb6f3617524f85d1f12b179ccc1a4c0b82483d7fadc1f3922ce00c7f3917._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/fb44ea96a9e8455acdcd32ab9295db0897ceb2521c2597bdff236dd6114ed1ea._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/IDGE_S2/en_US/COVER_ART/NEW_SERIES/Women._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/40c16daf2a2e324cb46358d3a480109453b5ccbd0cbd9c0758ee42061e25c3ba._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/de895b10b42d3a4667e6d2528dbb6e345706f3651d19b3053e950e19232f2869._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Latest movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/6ebda5f22212f64c80082cc374f88a718a47b1a2535b8e6c85ab7a0985b7b20f._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0c78a098cc9fdedc1e34daf4ed24760c07822f31de5fae39e0a72d765f4fb01d._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/04e1d365f1399ecf278de81cc2447d84d72e084848c75263d92458d53945a4ee._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/803b2daee8d10aed48c9ccb8fa6d4743e2f9f24a37e28b25d1969d8b25c85665._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c48e8b045733f223ddbfe2c1f9284096224bd9cdeb2ed99b5d83edef03a48e78._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Telugu movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/28ebd1d5680de1df9ba439da4bb5369636f238995f6513d8455f2b29439942f1._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c48e8b045733f223ddbfe2c1f9284096224bd9cdeb2ed99b5d83edef03a48e78._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/1938b2db4bb289567b3ecaf5de2e4080cf0fd490ea4c8d649cbacc7249a0f273._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e0665d8b86365ce63008ab8cfad96c4f7ea6289e42df019377cda15067e9f0f0._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/16575dd054bdf83ce01b7510545c5324c703c0a125410b5ff796c3c14a2692b8._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/720e79ec8b92b91884fac8d540b854761faffc7593f5d83d5b4c57b99acf48e2._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Thriller Movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4da4ffbf758f423b6ac483f566567dcc8c3501785b53e42423f95ae14544e661._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c8e62c2985ba5a568c63427979fe25129a6b2a4eecf6931497ccaab8de9c60bc._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/9b5876e93e37e85973feb06eb74cc9c56d1eac12a1ab1e7a83786ca3356793bd._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/colouryellowp-Tumbbad_2018-Full-Image_GalleryCover-rw-RW-1544111752161._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/09835998fa4529eeff1d540cd6940bb9c9e116a796436d751e904670411cf475._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/b4a5ee1bb306bc779842348f3630656c882626102007c1877d1134bc0100ccbb._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/080c7067ffbaa1b302331fe2fd32365a001183a5c291e9f467c9f2cc212d1af8._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Tamil movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0268965b55dbafb232de3346ce06227a5a500ee28a3ec68c4cd67432f7599292._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/40c16daf2a2e324cb46358d3a480109453b5ccbd0cbd9c0758ee42061e25c3ba._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/2a9b1b5edd8d1fe4946f64ec96399bb377d716438f254507f974f5b55db20ef3._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/NGK/en_US/COVER_ART/Couple._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/f7d3f3c3c5c6cbc56980ea2625e5ff9747101fe1f2af20e8bd912cb35cfac571._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/74605f9430c5086e01252f6c73a4083016fe51c5eb8901a1379f22ab1dde81a7._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c85507f163801213d1594897ca1c72308eb4d5734724442db47e7feb434cdcfb._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Amazon Original series",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/HUNTERS/en_US/COVER_ART/CLEAN/MEYER._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/FOAR_S1_STM_IN/hi_IN/COVER_ART/Maya_Smile._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/5adf99fe281db77267d5a79c50b73275500ae3a61488c6448e80f51b2dcc0ef6._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/IDGE_S2/en_US/COVER_ART/NEW_SERIES/Women._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c1d6826d49bd0ce4797b718726245a18b70f36f371219edb0cfc4a7eff11b279._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/amazon_studios-MRZP_S1_STM_IN-Full-Image_GalleryCover-rw-RW-1556884584371._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Avaliable in telugu audio",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4eee812b2e67cce3b3cd9594a3e7fcc54b91341879d7c59329998a1d20dddb46._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/775d2271c07165c5753e787cc1ddfbbf47c622a648b93737ca28d88218b53045._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/wb-2045078_6000112291_IN-Full-Image_GalleryCover-en-rw-1566934007192._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/2427ff8ae8c0bd11e79e616a878098369f1b0175a95e5dd2b2daea8464583e8f._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/3b8d56ebd9f8af65297aeec9ae30645a3f2d73949b04e7c0f4236b4a4f9136fc._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/5f786b87557c159c782569ed7ff1070696c11331f9b1efbfc46945667e2d9201._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/bcca7af1f61c0353f5f55375a065809c2359d5048eb6f367a07d67658cd49236._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Horror movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/131a663506744276152b8b484098f3d746a039a44d4ededc3b9ce64b91509533._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e5ae0abd1ebf88d0106a018c3914bbd2042d6ff262efb8251d8640d6ba595c25._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e8b2f2a79188bedd496e68bfe8a07101c03b6cf6796ea841ae16eb1a1a26130c._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/06040972ad2dede62de7e52ec9ba9564fcf966945911c85f9f1fe4f93ebcc46b._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/7e9f1153096a81fcdd43a7107d0bcdfc7a5b6e7b4b4ef4be43e939c93e51ce9a._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/ab59207dc47346fcf979604207351cc895dfb3734146588b92421e79312078ba._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4d7e66e52d71d0b3d2e4b5ef5eb22a9c79cbf33c78d855706f87e2dacc1900ac._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Action and advanture movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/08ab169295edff97f169c0a48a80084b239bf54974bb6b89f675f32ae756c8a7._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/db09f56bd302ffd3645862935b976a317b9acf35e9dcf84a7ac199714b124c96._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0406807103f64c2774c0102678a6abee404764d96ad753b3185d1a095c768c5b._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/82ed7d03cf1e90991a294dbff80189d7dc9314b7c8944c7cd711afed81b559e3._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/134375804ed5997f50e5dab6c7702b808b424d4a76f388c6749dcba675d2ea86._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/d6afd9f762475b36d65aa935f32969602e671c0b851911f5454ae175d42c2291._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/mango_mass-MMM_OFFICER_2018-Full-Image_GalleryCover-rw-RW-1532104698053._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Drama movies",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c48e8b045733f223ddbfe2c1f9284096224bd9cdeb2ed99b5d83edef03a48e78._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0268965b55dbafb232de3346ce06227a5a500ee28a3ec68c4cd67432f7599292._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4eee812b2e67cce3b3cd9594a3e7fcc54b91341879d7c59329998a1d20dddb46._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/KESARI/en_US/COVER_ART/STILL5._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/f7d3f3c3c5c6cbc56980ea2625e5ff9747101fe1f2af20e8bd912cb35cfac571._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/8785b10e5babf07f03472a78adb2ce93e5325a6bc8129bb1139b2dbb18353574._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      },
+      {
+        "tilte": "Movies in Hindi",
+        "imageUrls": [
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/08ab169295edff97f169c0a48a80084b239bf54974bb6b89f675f32ae756c8a7._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/d3af993e6fae9b67d0caf7f51636f6d7f122543d42db27a688043a14491c6715._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/775d2271c07165c5753e787cc1ddfbbf47c622a648b93737ca28d88218b53045._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/17e8f0838ec0ab59dc45d7bba4d4170947e51232693120fbda89ff74feefec6b._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/40d957277cf5b0d9f30d1c893c278fb690f303fdba8214161a7f38dc167814a3._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/ff89dc753c9a86ec7bef971074da6b66acb4a5d6600c45823618d29f4f999149._UR1920,1080_RI_SX356_FMwebp_.jpg",
+          "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e594f5872ba48a619f1e7f166270d681ab7fbc2372b723bdeb86c715fdb54507._UR1920,1080_RI_SX356_FMwebp_.jpg"
+        ]
+      }
+    ],
+    "sliderImageUrls": [
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_IN_appuyogicelephant/6d8c189f-55f2-4f39-b863-045e1d57392c._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/PV_IN_JustAddMagicMysteryCity/079016c7-9cee-465b-83c3-bb272163d115._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_IN_Tenali/88e55b35-0762-44fe-a8e4-7f8c41e2ce68._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_PV_IN_BabluDablu/00cea84c-ca63-4e3a-89bd-ba6e70ad6447._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_PV_IN_Oddbods_S1/05d45988-5bd3-4bfd-b735-3c7cda10c6a2._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_PV_IN_Chota_Bheem_v2/7afa4b06-375a-4a18-bf02-b942a41df4fa._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/Hero_PV_IN_ChachaBhatija_Kids/ba586eed-1cc4-415d-addc-f71508beba0a._UR3000,600_SX1500_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/digital/video/sonata/PV_IN_StarTrekPicard/093bb5d6-a78d-4e5b-882f-6f6f32270e32._UR3000,600_SX1500_FMwebp_.jpg"
     ]
   }
 }
